@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6957c128.css",
+    "main.js": "/static/js/main.8d55218e.js",
+    "static/media/logo_ww.png": "/static/media/logo_ww.730676e5eb7df8fa8d29.png",
+    "index.html": "/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.6957c128.css",
+    "static/js/main.8d55218e.js"
+  ]
+}
