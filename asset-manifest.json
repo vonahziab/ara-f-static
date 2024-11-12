@@ -1,12 +1,11 @@
 {
   "files": {
-    "main.css": "/static/css/main.6957c128.css",
-    "main.js": "/static/js/main.8d55218e.js",
-    "static/media/logo_ww.png": "/static/media/logo_ww.730676e5eb7df8fa8d29.png",
+    "main.css": "/static/css/main.251e9c5d.css",
+    "main.js": "/static/js/main.f6da2def.js",
     "index.html": "/index.html"
   },
   "entrypoints": [
-    "static/css/main.6957c128.css",
-    "static/js/main.8d55218e.js"
+    "static/css/main.251e9c5d.css",
+    "static/js/main.f6da2def.js"
   ]
 }
