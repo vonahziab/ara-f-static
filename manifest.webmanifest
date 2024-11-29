@@ -3,6 +3,8 @@
 	"short_name": "Ara Cargo",
 	"start_url": "",
 	"orientation": "portrait",
+	"theme_color": "#0E0D0B",
+	"background_color": "#0E0D0B",
 	"display": "fullscreen",
 	"icons": [
 		{ "src": "/icon/android-chrome-192x192.png", "sizes": "192x192", "type": "image/png" },
